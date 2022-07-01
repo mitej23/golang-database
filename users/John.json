@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 23,
+	"Contact": "32432424",
+	"Company": "Mit inc.",
+	"Address": {
+		"City": "banglore",
+		"State": "karnataka",
+		"Country": "india",
+		"Pincode": 4000092
+	}
+}

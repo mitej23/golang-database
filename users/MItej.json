@@ -1,0 +1,12 @@
+{
+	"Name": "MItej",
+	"Age": 20,
+	"Contact": "3242332424",
+	"Company": "Tin inc.",
+	"Address": {
+		"City": "pune",
+		"State": "maharashtra",
+		"Country": "india",
+		"Pincode": 4000092
+	}
+}

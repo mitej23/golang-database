@@ -1,0 +1,12 @@
+{
+	"Name": "Shreay",
+	"Age": 45,
+	"Contact": "32432424",
+	"Company": "Shrey inc.",
+	"Address": {
+		"City": "navi-mumbai",
+		"State": "maharashtra",
+		"Country": "india",
+		"Pincode": 4000092
+	}
+}

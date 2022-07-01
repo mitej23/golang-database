@@ -1,0 +1,12 @@
+{
+	"Name": "bapu",
+	"Age": 32,
+	"Contact": "3243244",
+	"Company": "Mum pvt.",
+	"Address": {
+		"City": "mumbai",
+		"State": "maharashtra",
+		"Country": "india",
+		"Pincode": 4000092
+	}
+}
